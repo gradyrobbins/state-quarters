@@ -17,6 +17,7 @@ const eventListeners = {
     console.log("lego to save :" , legoObject)
     //post to API and pass legoToSave; use data module, call "postLego" method
     data.postLego(legoObject);
+    // data.postLego(legoObject);
     }
 
 };
