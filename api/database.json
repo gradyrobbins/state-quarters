@@ -1,5 +1,11 @@
 {
   "legos": [
-    
+    {
+      "creatorName": "bloop",
+      "legoName": "bloop",
+      "legoColor": "red",
+      "legoShape": "bloop",
+      "id": 1
+    }
   ]
 }
