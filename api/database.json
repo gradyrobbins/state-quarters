@@ -1,6 +1,12 @@
 {
   "legos": [
-
+    {
+      "creatorName": "bang",
+      "legoName": "pop",
+      "legoColor": "2",
+      "legoShape": "snap",
+      "id": 1
+    }
   ],
   "colors": []
 }
