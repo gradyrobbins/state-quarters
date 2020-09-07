@@ -7,7 +7,15 @@
 1. go to localhost:8080 in your browser
 
 ## Screengrabs:
-### DOM :
+### DOM (no CSS):
 ![DOM](./DOM_screengrab.png) <br/><br/>
+
+
 ### API:
 ![API](API_screengrab.png)
+
+
+### NOW Incorporating Water.css
+🌊 A drop-in collection of [CSS styles](https://watercss.netlify.app/) to make simple websites just a little nicer
+
+![WATER](CSS_screengrab.png)
