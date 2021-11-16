@@ -18,6 +18,14 @@ const eventListeners = {
     //post to API and pass legoToSave; use data module, call "postLego" method
     data.postLego(legoObject);
     // data.postLego(legoObject);
+
+//clear form fields after data.postLego(legoObject) is called.
+    document.querySelector("#lego__creator").value = "";
+    document.querySelector("#lego__name").value = "";
+    document.querySelector("#lego__color").value = "";
+    document.querySelector("#lego__shape").value = "";
+
+
     }
 
 };
