@@ -1,8 +1,6 @@
-# Legos with Jisie
+# State Quarters Collector
 An app that captures user inputs to create an object; and POSTs that object to an API
 
-
-<br/><br/>
 
 # _How to start this project_
 
