@@ -6,7 +6,8 @@ An app that captures user inputs to create an object; and POSTs that object to a
 
 ## 1. ``` git clone https://github.com/gradyrobbins/state-quarters.git ```
 ## 2. ``` cd src/lib ```
-## 3. ``` grunt   ```
+## 3. ``` npm install```
+## 4. ``` grunt   ```
 <br/><br/>
 ## DOM:  ```localhost:8080``` in your browser 
 
